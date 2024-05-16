@@ -95,3 +95,17 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+Answer 10: Tre Wilson 
+CS 2400-100
+
+Answer 11: Everything up-to-date
+
+Answer 12: commit d230bf45851446900c9980db1049086eb77c557d (HEAD -> main, origin/main)
+Author: TreWilson <Tw340223@ohio.edu>
+Date:   Thu May 16 16:04:59 2024 -0400
+
+Answer 13: trewilson@Tres-Air git-lab % ls -a
+.               .git            answers.md      git-lab-2
+..              README.md       git-lab
+
+
